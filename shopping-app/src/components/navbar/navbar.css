@@ -1,0 +1,48 @@
+header {  
+    background-color: #C2A878;
+    padding: 20px 100px  ; 
+    display: flex;
+}
+
+
+h3 { 
+    margin: auto  0 ; 
+    padding : 0 ; 
+    cursor: pointer ; 
+    transition: 300ms; 
+}
+
+h3:hover {
+    color: #fff; 
+}
+
+.list {
+    display: flex ; 
+    list-style: none;
+    margin: auto 50px auto auto;
+    
+}
+
+.list li { 
+    margin: 0 20px ; 
+    cursor: pointer ; 
+    transition: 300ms; 
+}
+
+.list li:hover { 
+    color: #fff; 
+}
+
+ .icon { 
+     margin-left: 40px;
+    font-size: 25px;
+    transition: 300ms; 
+    cursor: pointer;
+}
+
+.icon:hover { 
+     color: #fff;
+}
+
+
+
